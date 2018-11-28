@@ -1,0 +1,54 @@
+
+
+
+@HotelBookingLogin
+
+
+Feature:Login
+
+
+Scenario:check the heading of the login page
+Given user is on the login page
+Then check the heading of the page
+
+
+
+Scenario:Login Credentials
+Given user enter valid username,password
+When click's the login button
+Then direct him to booking page
+
+
+Scenario: Invalid credentials
+Given user enters the details that does not match with database records
+When clicks the login button
+Then reflect invalid credentials in same page
+
+
+
+
+Scenario: No input was given
+Given user did't given username,password
+When clicks the login button
+Then display a message to enter valid details
+
+
+
+
+Scenario:user name is correct,password is wrong
+Given user entered the username,password
+When clicks the login button
+Then display enter valid username or password
+
+
+
+Scenario:user name is incorrect,password is correct
+Given user entered username,password
+When clicks on login button
+Then display enter valid username or password
+
+
+
+
+
+
