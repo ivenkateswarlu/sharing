@@ -1,0 +1,102 @@
+	@Given("^user is on the login page$")
+	public void user_is_on_the_login_page() throws Throwable {
+	   
+		
+		
+	}
+
+	@Then("^check the heading of the page$")
+	public void check_the_heading_of_the_page() throws Throwable {
+	   
+		
+		
+	}
+
+	@Given("^user enter valid username,password$")
+	public void user_enter_valid_username_password() throws Throwable {
+	   
+		
+		
+	}
+
+	@When("^click's the login button$")
+	public void click_s_the_login_button() throws Throwable {
+	   
+		
+		
+	}
+
+	@Then("^direct him to booking page$")
+	public void direct_him_to_booking_page() throws Throwable {
+	   
+		
+		
+	}
+
+	@Given("^user enters the details that does not match with database records$")
+	public void user_enters_the_details_that_does_not_match_with_database_records() throws Throwable {
+	   
+		
+		
+	}
+
+	@When("^clicks the login button$")
+	public void clicks_the_login_button() throws Throwable {
+	   
+		
+		
+	}
+
+	@Then("^reflect invalid credentials in same page$")
+	public void reflect_invalid_credentials_in_same_page() throws Throwable {
+	    
+		
+		
+	}
+
+	@Given("^user did't given username,password$")
+	public void user_did_t_given_username_password() throws Throwable {
+	   
+		
+		
+	}
+
+	@Then("^display a message to enter valid details$")
+	public void display_a_message_to_enter_valid_details() throws Throwable {
+	   
+		
+		
+	}
+
+	@Given("^user entered the username,password$")
+	public void user_entered_the_username_password() throws Throwable {
+	
+		
+		
+	}
+
+	@Then("^display enter valid username or password$")
+	public void display_enter_valid_username_or_password() throws Throwable {
+	    
+		
+		
+	}
+
+	@Given("^user entered username,password$")
+	public void user_entered_username_password() throws Throwable {
+	  
+		
+		
+	}
+
+	@When("^clicks on login button$")
+	public void clicks_on_login_button() throws Throwable {
+	   
+		
+		
+	}
+
+
+	
+	
+	
